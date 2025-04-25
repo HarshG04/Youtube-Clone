@@ -9,24 +9,6 @@ A full-stack YouTube clone built using the MERN stack (MongoDB, Express.js, Reac
 - Database: MongoDB
 - Authentication: JWT (JSON Web Tokens)
 
-## Project Structure
-
-```
-youtube-clone/
-├── client/                 # Frontend React application
-│   ├── public/
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       ├── context/
-│       └── utils/
-└── server/                 # Backend Node.js application
-    ├── controllers/
-    ├── models/
-    ├── routes/
-    └── middleware/
-```
-
 ## Setup Instructions
 
 ### Prerequisites
