@@ -2,16 +2,6 @@
 
 A full-stack YouTube clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
-## Features
-
-- User authentication (Sign up/Sign in)
-- Video browsing and viewing
-- Search functionality
-- Video filtering by category
-- Like/Dislike system
-- Comment system
-- Responsive design
-
 ## Tech Stack
 
 - Frontend: React.js, React Router, Axios
@@ -104,11 +94,3 @@ youtube-clone/
 - POST /api/videos/:id/comments - Add a comment
 - PUT /api/comments/:id - Update comment
 - DELETE /api/comments/:id - Delete comment
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request 
